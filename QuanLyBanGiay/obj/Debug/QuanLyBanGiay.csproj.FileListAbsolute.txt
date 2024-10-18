@@ -1,0 +1,12 @@
+D:\2431\PTPMUD\Project\QuanLyBanGiay\QuanLyBanGiay\bin\Debug\QuanLyBanGiay.exe.config
+D:\2431\PTPMUD\Project\QuanLyBanGiay\QuanLyBanGiay\bin\Debug\QuanLyBanGiay.exe
+D:\2431\PTPMUD\Project\QuanLyBanGiay\QuanLyBanGiay\bin\Debug\QuanLyBanGiay.pdb
+D:\2431\PTPMUD\Project\QuanLyBanGiay\QuanLyBanGiay\bin\Debug\Guna.UI2.dll
+D:\2431\PTPMUD\Project\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.csproj.AssemblyReference.cache
+D:\2431\PTPMUD\Project\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.GUI.frmLogin.resources
+D:\2431\PTPMUD\Project\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.Properties.Resources.resources
+D:\2431\PTPMUD\Project\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.csproj.GenerateResource.cache
+D:\2431\PTPMUD\Project\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.csproj.CoreCompileInputs.cache
+D:\2431\PTPMUD\Project\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBa.AE8BC89B.Up2Date
+D:\2431\PTPMUD\Project\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.exe
+D:\2431\PTPMUD\Project\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.pdb
